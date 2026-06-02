@@ -12,6 +12,7 @@ I believe artificial intelligence should be accessible to everyone — and I'm o
 ## What I'm Building
 
 - MMRA-AI — A chatbot that helps people understand Ghana's 1992 constitution in plain language
+- CATHOLICORDO - A Catholic Liturgical Calendar & Daily Readings Information System built with React, FastAPI, and Supabase.
 - A growing community of AI enthusiasts and problem solvers (https://whatsapp.com/channel/0029Vb8Eh78GzzKNCfAuLS2E)
 
 ## Tech Stack
