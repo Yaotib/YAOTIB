@@ -1,4 +1,4 @@
-# Hey, I'm Yaw 👋
+# Hey, I'm Yaw 
 
 Student. AI Enthusiast.
 
