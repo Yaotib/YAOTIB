@@ -1,10 +1,11 @@
 # Hey, I'm Yaw 
 
-Student. AI Enthusiast.
+Student. AI & BizTech Enthusiast. Aspiring AI Product Builder and AI Product Manager
 
 ## What I'm Learning
 
-- How to solve problems with AI
+- AI Product Management
+- AI for BizTech
 
 ## What I'm Building
 
