@@ -3,7 +3,7 @@
 Student. AI & BizTech Enthusiast. Aspiring AI Product Builder and AI Product Manager
 
 ## What I'm Learning
-
+-AI Product Building
 - AI Product Management
 - AI for BizTech
 
